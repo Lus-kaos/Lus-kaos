@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Lus-kaos
-- 👀 I’m interested in AI, VR, AR art and web3
+- 👀 I’m interested in RWAs, AI, VR, AR art and web3 in general
 - 🌱 I’m currently learning how to rebuild my website for the web3
 - 💞️ I’m looking to collaborate with RWA startups
 - 📫 How to reach me @lus_kaos on twitter and everywhere else 
